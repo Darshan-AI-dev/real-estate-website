@@ -1,0 +1,7 @@
+# Single Page Application redirects
+# This ensures that all routes are handled by React Router
+/*    /index.html   200
+
+# Optional: Redirect old URLs if you have any
+# /old-page    /new-page    301
+
